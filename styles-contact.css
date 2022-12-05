@@ -71,7 +71,7 @@ html, body {
 	min-width: 300px; /* ----- This is for responsiveness -----*/
 	padding: 2%;
     margin: 100px auto;
- 	background: rgba(208, 161, 179, 0.80); /*this uses opacity of 80% for the background color*/
+ 	background: rgba(208, 161, 179, 0.75); /*this uses opacity of 75% for the background color*/
 	text-align: center;
 	border-radius: 50px 50px 50px 50px;
 
